@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jbarbojo\\.gradle\\caches\\transforms-2\\files-2.1\\e73fd8d442b2a714b04fee3e224e9d90\\appcompat-1.0.2\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

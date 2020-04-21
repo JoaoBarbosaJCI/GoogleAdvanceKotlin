@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\task_item.xml",
+        "source": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\src\\main\\res\\layout\\task_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tasks_frag.xml",
+        "source": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\src\\main\\res\\layout\\tasks_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\statistics_frag.xml",
+        "source": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\src\\main\\res\\layout\\statistics_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\taskdetail_frag.xml",
+        "source": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\src\\main\\res\\layout\\taskdetail_frag.xml"
+    },
+    {
+        "merged": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\addtask_frag.xml",
+        "source": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\src\\main\\res\\layout\\addtask_frag.xml"
+    }
+]

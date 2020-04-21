@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-testing-starter_code.iml" filepath="$PROJECT_DIR$/android-testing-starter_code.iml" group="android-testing-starter_code" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android-testing-starter_code/app" />
+    </modules>
+  </component>
+</project>

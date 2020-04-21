@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jbarbojo\\Downloads\\android-testing-starter-code\\android-testing-starter_code\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jbarbojo\\.gradle\\caches\\transforms-2\\files-2.1\\e73fd8d442b2a714b04fee3e224e9d90\\appcompat-1.0.2\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
